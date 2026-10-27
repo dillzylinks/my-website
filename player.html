@@ -259,10 +259,13 @@
                 } else {
                     console.error('Browser not supported');
                 }
-            } catch (err) {
-                console.error("Error fetching or parsing id.json", err);
-                video.style.display = 'none';
-                offlineText.style.display = 'block';
+            } catch (e) {
+    console.error('Error loading stream code:', e.code, 'category:', e.category, e);
+    alert('Error code: ' + e.code); // Phone par screen par error code dikha dega
+    video.style.display = 'none';
+    offlineText.style.display = 'block';
+            }
+            
             }
         });
     </script>
