@@ -574,5 +574,13 @@
     "iframeSrc": "https://matcheslinkz.pages.dev/adfree?id=B0HMLGQPBV",
     "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
     "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
-  } 
+  },
+    {
+    "id": "sony-ten-4",
+    "name": "Sony Ten 4",
+    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyTen4Kan_BTS/WDVLive/index.mpd?__hdnea__=st=1793092231~exp=1793113831~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=17774d2d705148debec840400c66da526eccb9bd559cd9820a3993bf4aeaabf3",
+    "hit": "https://hit-counter-theta.vercel.app/api/hit?key=sony-ten-4",
+    "get": "https://hit-counter-theta.vercel.app/api/get?key=sony-ten-4"
+    }
 ]
+  
